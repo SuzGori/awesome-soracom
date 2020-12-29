@@ -3,6 +3,11 @@
 SORACOM Awesome Lists
 
 I love SORACOM.
+SORACOMを使って利便性やユーザ目線での取組に魅了されたので、
+
+還元したいと思いここに情報を纏め、開発者が情報網羅できる場所を作りました。
+
+共感していただける方、プルリクお待ちしております！
 
 ---
 
@@ -20,6 +25,8 @@ Table of contents:
 
 - [Third Party Libraries](#third-party-libraries)
   - [Napter](#napter)
+
+- [Tools](#tools)
   - [Summary](#summary)
 
 ---
@@ -78,11 +85,17 @@ Table of contents:
 - [Ruby](https://github.com/soracom/soracom-sdk-ruby)
 - [.Net](https://github.com/muojp/SoraCommonNet)
 
+---
+
 ## Third Party Libraries
 
 ### Napter
 
 - [SORACOM Napterで複数SIMからSSH先を選択して接続できるスクリプト作った](https://yomon.hatenablog.com/entry/2020/12/soracom_napter_selector)
+
+---
+
+## Tools
 
 ### Summary
 
