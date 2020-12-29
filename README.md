@@ -15,8 +15,12 @@ Table of contents:
   - [Person](#person)
   - [Article](#article)
 
+- [Development](#development)
+  - [SDK](#sdk)
+
 - [Third Party Libraries](#third-party-libraries)
   - [Napter](#napter)
+  - [Summary](#summary)
 
 ---
 
@@ -38,7 +42,7 @@ Table of contents:
 
 ### Person
 
-- MVC
+- MVC 2020
   - [1stship](https://twitter.com/1st_ship)
   - [Takayuki Fuwa](https://twitter.com/pacsolution)
 
@@ -60,8 +64,26 @@ Table of contents:
 
 ---
 
+## Development
+
+### SDK
+
+- [Android](https://github.com/LyricalMaestro/SoracomApiAndroid)
+- [iOS-Swift](https://github.com/soracom/soracom-sdk-ios)
+- [iOS-Swift](https://github.com/soracom/soracom-sdk-swift)
+- [Go](https://github.com/soracom/soracom-sdk-go)
+- [Node.js](https://github.com/tatsuyaoiw/soracom)
+- [Python](https://github.com/j3tm0t0/soracom-python)
+- [R](https://github.com/kos59125/soracomr)
+- [Ruby](https://github.com/soracom/soracom-sdk-ruby)
+- [.Net](https://github.com/muojp/SoraCommonNet)
+
 ## Third Party Libraries
 
 ### Napter
 
 - [SORACOM Napterで複数SIMからSSH先を選択して接続できるスクリプト作った](https://yomon.hatenablog.com/entry/2020/12/soracom_napter_selector)
+
+### Summary
+
+- [SORACOM Summary](https://github.com/1stship/soracom_summary)
